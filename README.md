@@ -1,4 +1,3 @@
-# mockai
 
 A new Flutter project.
 
